@@ -46,43 +46,29 @@ ________
 __________
 20/04/2026 : 2 CoU (0001-000065-000066-UCR-CoU-IN-462-01082018-31122018 ) are Retired 
 _____________
-20/04/2026 11:38
-2 CoU(0001-000061-000062-UCR-CoU-IN-462-01082018-31122018 ) are Retired by Account No.130501765
-Reason for Retirement: Retired by G V Sridharan of Stealth to compensate 2 metric tonnes of CO₂ equivalent emissions
-20/04/2026 11:37
-2 CoU(0001-000059-000060-UCR-CoU-IN-462-01082018-31122018 ) are Retired by Account No.130501765
-Reason for Retirement: Retired by Niranjan M of HROne to compensate 2 metric tonnes of CO₂ equivalent emissions
-20/04/2026 11:37
-2 CoU(0001-000057-000058-UCR-CoU-IN-462-01082018-31122018 ) are Retired by Account No.130501765
-Reason for Retirement: Retired by Subhamoy Sengupta of HROne to compensate 2 metric tonnes of CO₂ equivalent emissions
-20/04/2026 11:36
-2 CoU(0001-000055-000056-UCR-CoU-IN-462-01082018-31122018 ) are Retired by Account No.130501765
-Reason for Retirement: Retired by Yashwanth Jembige of SpringVerify to compensate 2 metric tonnes of CO₂ equivalent emissions
-20/04/2026 11:36
-2 CoU(0001-000053-000054-UCR-CoU-IN-462-01082018-31122018 ) are Retired by Account No.130501765
-Reason for Retirement: Retired by Vivek Ojha of KWA Analytics to compensate 2 metric tonnes of CO₂ equivalent emissions
-20/04/2026 11:34
-2 CoU(0001-000051-000052-UCR-CoU-IN-462-01082018-31122018 ) are Retired by Account No.130501765
-Reason for Retirement: Retired by Lince A Antony of Ciel & Terre India to compensate 2 metric tonnes of CO₂ equivalent emissions
-20/04/2026 11:33
-2 CoU(0001-000049-000050-UCR-CoU-IN-462-01082018-31122018 ) are Retired by Account No.130501765
-Reason for Retirement: Retired by Syeda Unissa of Incred Finance to compensate 2 metric tonnes of CO₂ equivalent emissions
-20/04/2026 11:33
-2 CoU(0001-000047-000048-UCR-CoU-IN-462-01082018-31122018 ) are Retired by Account No.130501765
-Reason for Retirement: Retired by Shruti Gandhi of Graphcore to compensate 2 metric tonnes of CO₂ equivalent emissions
-20/04/2026 11:32
-2 CoU(0001-000045-000046-UCR-CoU-IN-462-01082018-31122018 ) are Retired by Account No.130501765
-Reason for Retirement: Retired by Shrity Priya of Dhurin to compensate 2 metric tonnes of CO₂ equivalent emissions
-20/04/2026 11:31
-2 CoU(0001-000043-000044-UCR-CoU-IN-462-01082018-31122018 ) are Retired by Account No.130501765
-Reason for Retirement: Retired by Moiz Barodawala of Fulfillment IQ to compensate 2 metric tonnes of CO₂ equivalent emissions
-20/04/2026 11:31
-2 CoU(0001-000041-000042-UCR-CoU-IN-462-01082018-31122018 ) are Retired by Account No.130501765
-Reason for Retirement: Retired by Sowmya of Ansr to compensate 2 metric tonnes of CO₂ equivalent emissions
-20/04/2026 11:30
-2 CoU(0001-000039-000040-UCR-CoU-IN-462-01082018-31122018 ) are Retired by Account No.130501765
-Reason for Retirement: Retired by Sripathi Acharya of Biocon to compensate 2 metric tonnes of CO₂ equivalent emissions
-20/04/2026 11:30
-2 CoU(0001-000037-000038-UCR-CoU-IN-462-01082018-31122018 ) are Retired by Account No.130501765
-Reason for Retirement: Retired by Kartheka of ICSR, IIT M to compensate 2 metric tonnes of CO₂ equivalent emissions
+20/04/2026: 2 CoU(0001-000061-000062-UCR-CoU-IN-462-01082018-31122018 ) are Retired 
+_____________
+20/04/2026 : 2 CoU (0001-000059-000060-UCR-CoU-IN-462-01082018-31122018 ) are Retired 
+_____________
+20/04/2026 : 2 CoU (0001-000057-000058-UCR-CoU-IN-462-01082018-31122018 ) are Retired 
+_____________
+20/04/2026 : 2 CoU (0001-000055-000056-UCR-CoU-IN-462-01082018-31122018 ) are Retired 
+_____________
+20/04/2026 : 2 CoU (0001-000053-000054-UCR-CoU-IN-462-01082018-31122018 ) are Retired 
+_____________
+20/04/2026 : 2 CoU (0001-000051-000052-UCR-CoU-IN-462-01082018-31122018 ) are Retired 
+_____________
+20/04/2026 : 2 CoU (0001-000049-000050-UCR-CoU-IN-462-01082018-31122018 ) are Retired 
+_____________
+20/04/2026 : 2 CoU (0001-000047-000048-UCR-CoU-IN-462-01082018-31122018 ) are Retired 
+_____________
+20/04/2026 : 2 CoU (0001-000045-000046-UCR-CoU-IN-462-01082018-31122018 ) are Retired 
+________
+20/04/2026 : 2 CoU (0001-000043-000044-UCR-CoU-IN-462-01082018-31122018 ) are Retired 
+_____________
+20/04/2026 : 2 CoU (0001-000041-000042-UCR-CoU-IN-462-01082018-31122018 ) are Retired 
+_____________
+20/04/2026 : 2 CoU (0001-000039-000040-UCR-CoU-IN-462-01082018-31122018 ) are Retired 
+_____________
+20/04/2026 : 2 CoU (0001-000037-000038-UCR-CoU-IN-462-01082018-31122018 ) are Retired 
 _____________
